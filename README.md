@@ -47,8 +47,8 @@ Press `q` in the video window to quit. The first run downloads `yolov8n.pt`.
 
 ## How it was built
 
-- An extra proof-of-concept I built on my own, separate from the team's business plan
-  (my role in the team plan was hardware and sensor integration).
+- An extra proof-of-concept I built on my own. In my Industrial Innovation VI team (four people) I was
+  responsible for the software side.
 - The code was written with the help of Google Gemini (AI assistant), then run and tested by me.
 - Detection model: Ultralytics YOLOv8n.
 
